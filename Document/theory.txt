@@ -1,0 +1,4 @@
+Whatsapp - Python (Automatize Process (MESSAGES)) 
+->Function API-REST
+*https://pypi.org/project/pywhatkit/ (pywhatkit)
+*https://www.twilio.com/(twilio)
